@@ -1,0 +1,101 @@
+Random_Date,Category,Payment_Mode,Description,Amount_Paid,Cashback
+2024-11-11,Investment,UPI,Stock purchase,207.46,0.0
+2024-11-19,Travel,Credit Card,Car rental for the trip,514.65,39.78
+2024-11-24,Travel,Credit Card,Car rental for the trip,73.09,0.91
+2024-11-10,Transportation,UPI,Uber ride to the airport,538.85,51.43
+2024-11-19,Subscriptions,Net Banking,Gym membership,792.55,0.71
+2024-11-19,Transportation,UPI,Public transport monthly pass,573.13,33.64
+2024-11-16,Subscriptions,UPI,Gym membership,529.52,7.3
+2024-11-13,Travel,Credit Card,Flight tickets to a destination,197.51,16.36
+2024-11-17,Transportation,Debit Card,Gas for the car,272.24,1.68
+2024-11-15,Entertainment,Cash,Dining out with friends,156.18,13.06
+2024-11-28,Entertainment,Net Banking,Video game purchase,764.83,55.27
+2024-11-24,Bills,UPI,Mobile phone bill,137.71,4.11
+2024-11-01,Entertainment,Cash,Concert tickets,567.42,28.77
+2024-11-14,Travel,Net Banking,Flight tickets to a destination,688.1,64.41
+2024-11-06,Entertainment,Credit Card,Concert tickets,868.96,18.82
+2024-11-13,Entertainment,Debit Card,Movie tickets for the weekend,644.69,14.23
+2024-11-04,Travel,Debit Card,Sightseeing tour tickets,752.27,17.84
+2024-11-15,Bills,UPI,Internet service charge,64.01,0.31
+2024-11-04,Bills,Debit Card,Water bill payment,44.67,0.75
+2024-11-15,Entertainment,Net Banking,Video game purchase,396.22,2.55
+2024-11-22,Personal,Debit Card,Hobby supplies,793.83,12.08
+2024-11-18,Food,UPI,Coffee and pastries at a café,583.85,12.53
+2024-11-21,Food,Credit Card,Takeout from a local diner,580.81,16.89
+2024-11-16,Entertainment,Net Banking,Dining out with friends,909.9,57.6
+2024-11-27,Investment,Net Banking,Mutual fund contribution,981.48,0.0
+2024-11-05,Transportation,Debit Card,Taxi fare to a meeting,62.88,1.89
+2024-11-16,Investment,Cash,Bond investment,950.66,0.0
+2024-11-06,Subscriptions,Credit Card,Online course fee,567.85,28.69
+2024-11-01,Investment,Debit Card,Mutual fund contribution,206.55,0.0
+2024-11-01,Investment,Cash,Dividend reinvestment,718.43,0.0
+2024-11-14,Investment,Credit Card,Dividend reinvestment,469.48,0.0
+2024-11-04,Transportation,Cash,Public transport monthly pass,977.72,10.19
+2024-11-09,Travel,Credit Card,Sightseeing tour tickets,601.72,38.09
+2024-11-24,Travel,Net Banking,Car rental for the trip,73.93,6.21
+2024-11-04,Bills,Credit Card,Mobile phone bill,347.41,22.81
+2024-11-17,Groceries,Cash,Snacks and drinks for the week,225.7,8.91
+2024-11-24,Entertainment,Net Banking,Dining out with friends,649.57,18.66
+2024-11-03,Transportation,Net Banking,Gas for the car,383.75,13.54
+2024-11-26,Subscriptions,Debit Card,Gym membership,958.66,50.3
+2024-11-07,Subscriptions,Credit Card,Software subscription,66.83,3.69
+2024-11-12,Subscriptions,UPI,Gym membership,748.52,34.78
+2024-11-06,Transportation,Cash,Public transport monthly pass,851.37,75.11
+2024-11-17,Investment,Debit Card,Retirement account contribution,223.15,0.0
+2024-11-23,Transportation,UPI,Public transport monthly pass,996.85,18.01
+2024-11-11,Travel,UPI,Hotel booking for vacation,80.09,3.97
+2024-11-28,Personal,UPI,Books and stationery,936.28,61.92
+2024-11-28,Entertainment,UPI,Streaming service subscription,151.65,0.14
+2024-11-09,Bills,UPI,Water bill payment,278.21,6.71
+2024-11-04,Subscriptions,Cash,Software subscription,870.52,25.22
+2024-11-13,Personal,Debit Card,Books and stationery,565.73,30.85
+2024-11-23,Investment,Credit Card,Investment in startup,203.18,0.0
+2024-11-15,Subscriptions,Cash,Gym membership,708.18,34.0
+2024-11-12,Transportation,Credit Card,Taxi fare to a meeting,904.42,90.34
+2024-11-05,Personal,Net Banking,Clothing purchase,689.98,48.67
+2024-11-16,Entertainment,Debit Card,Concert tickets,318.43,3.08
+2024-11-20,Groceries,Net Banking,Buying fresh produce,386.32,7.82
+2024-11-27,Transportation,Credit Card,Parking fees,101.1,0.58
+2024-11-25,Subscriptions,UPI,Streaming service subscription,969.33,77.34
+2024-11-18,Food,Net Banking,Takeout from a local diner,556.81,34.8
+2024-11-15,Food,Credit Card,Takeout from a local diner,803.8,33.99
+2024-11-10,Investment,Credit Card,Mutual fund contribution,159.04,0.0
+2024-11-08,Subscriptions,Net Banking,Software subscription,169.49,6.64
+2024-11-03,Entertainment,Credit Card,Streaming service subscription,919.39,10.03
+2024-11-07,Entertainment,Net Banking,Dining out with friends,47.84,4.04
+2024-11-23,Subscriptions,Credit Card,Gym membership,862.25,9.77
+2024-11-24,Investment,Cash,Stock purchase,656.56,0.0
+2024-11-01,Bills,Credit Card,Internet service charge,93.37,8.75
+2024-11-03,Groceries,Net Banking,Snacks and drinks for the week,180.39,2.08
+2024-11-27,Gifts,Debit Card,Holiday gift,840.92,16.57
+2024-11-04,Travel,Debit Card,Hotel booking for vacation,624.1,38.03
+2024-11-17,Personal,Credit Card,Personal care products,750.93,38.76
+2024-11-15,Transportation,Cash,Taxi fare to a meeting,368.6,23.16
+2024-11-14,Travel,Net Banking,Sightseeing tour tickets,890.94,43.78
+2024-11-03,Personal,Net Banking,Hobby supplies,819.11,61.62
+2024-11-16,Bills,Debit Card,Water bill payment,929.26,13.82
+2024-11-15,Bills,Debit Card,Water bill payment,912.32,60.39
+2024-11-20,Entertainment,Net Banking,Video game purchase,32.17,2.83
+2024-11-26,Subscriptions,Cash,Online course fee,203.93,11.84
+2024-11-22,Food,Debit Card,Dinner at a restaurant,552.6,53.52
+2024-11-12,Food,Cash,Snacks for cravings,871.64,35.83
+2024-11-29,Groceries,Cash,Snacks and drinks for the week,429.54,24.22
+2024-11-10,Food,Credit Card,Snacks for cravings,488.78,7.77
+2024-11-29,Groceries,UPI,Snacks and drinks for the week,424.22,30.03
+2024-11-21,Gifts,UPI,Anniversary gift,58.88,1.8
+2024-11-08,Subscriptions,Debit Card,Gym membership,518.33,49.84
+2024-11-10,Entertainment,UPI,Video game purchase,754.44,68.18
+2024-11-22,Food,Debit Card,Coffee and pastries at a café,231.54,8.38
+2024-11-29,Personal,UPI,Hobby supplies,528.85,3.09
+2024-11-19,Entertainment,Debit Card,Movie tickets for the weekend,22.93,2.05
+2024-11-27,Food,Net Banking,Coffee and pastries at a café,34.99,0.41
+2024-11-16,Groceries,UPI,Snacks and drinks for the week,990.05,27.31
+2024-11-17,Entertainment,Debit Card,Video game purchase,520.95,41.77
+2024-11-17,Travel,Credit Card,Hotel booking for vacation,706.34,62.8
+2024-11-26,Personal,Credit Card,Personal care products,520.0,11.72
+2024-11-22,Bills,Net Banking,Insurance premium payment,743.94,2.31
+2024-11-15,Gifts,Cash,Birthday gift for a friend,199.94,4.79
+2024-11-09,Investment,UPI,Retirement account contribution,872.79,0.0
+2024-11-09,Investment,Cash,Cryptocurrency purchase,848.88,0.0
+2024-11-28,Entertainment,Cash,Video game purchase,398.33,19.81
+2024-11-20,Transportation,Net Banking,Public transport monthly pass,952.16,12.22

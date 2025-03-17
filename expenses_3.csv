@@ -1,0 +1,101 @@
+Random_Date,Category,Payment_Mode,Description,Amount_Paid,Cashback
+2024-03-21,Entertainment,Net Banking,Video game purchase,792.49,77.0
+2024-03-25,Entertainment,UPI,Dining out with friends,592.14,41.6
+2024-03-27,Personal,Net Banking,Books and stationery,32.58,2.79
+2024-03-08,Personal,Credit Card,Books and stationery,504.62,6.19
+2024-03-29,Personal,Cash,Books and stationery,428.08,5.14
+2024-03-18,Subscriptions,Cash,Online course fee,571.0,35.68
+2024-03-23,Bills,Net Banking,Electricity bill payment,35.08,3.26
+2024-03-23,Investment,Cash,Dividend reinvestment,820.96,0.0
+2024-03-03,Subscriptions,Credit Card,Streaming service subscription,209.22,6.37
+2024-03-16,Personal,Debit Card,Books and stationery,515.06,9.94
+2024-03-17,Entertainment,Net Banking,Streaming service subscription,152.2,11.06
+2024-03-30,Transportation,Credit Card,Parking fees,717.57,12.89
+2024-03-05,Groceries,UPI,Buying fresh produce,744.34,28.47
+2024-03-24,Travel,Debit Card,Hotel booking for vacation,101.58,1.96
+2024-03-11,Groceries,Debit Card,Buying fresh produce,803.93,34.82
+2024-03-28,Personal,UPI,Hobby supplies,407.22,28.02
+2024-03-17,Investment,UPI,Dividend reinvestment,908.29,0.0
+2024-03-02,Food,Net Banking,Takeout from a local diner,625.71,49.72
+2024-03-09,Transportation,UPI,Public transport monthly pass,415.61,13.02
+2024-03-03,Investment,Cash,Dividend reinvestment,442.1,0.0
+2024-03-04,Transportation,UPI,Parking fees,989.53,83.11
+2024-03-20,Bills,Cash,Insurance premium payment,399.16,19.88
+2024-03-05,Groceries,Cash,Buying fresh produce,269.5,16.42
+2024-03-04,Gifts,Cash,Anniversary gift,975.9,28.38
+2024-03-24,Groceries,Debit Card,Buying fresh produce,294.07,5.96
+2024-03-09,Groceries,Cash,Weekly grocery shopping,503.38,36.3
+2024-03-26,Entertainment,Credit Card,Streaming service subscription,561.55,12.8
+2024-03-22,Entertainment,Cash,Streaming service subscription,698.83,15.77
+2024-03-18,Bills,Debit Card,Insurance premium payment,962.53,30.75
+2024-03-11,Transportation,Debit Card,Public transport monthly pass,598.71,8.62
+2024-03-27,Food,Credit Card,Snacks for cravings,508.82,47.49
+2024-03-01,Food,Debit Card,Coffee and pastries at a café,529.3,45.24
+2024-03-20,Gifts,UPI,Gift for a colleague,10.23,0.26
+2024-03-24,Personal,Debit Card,Books and stationery,797.81,67.73
+2024-03-28,Groceries,UPI,Household supplies,150.24,3.82
+2024-03-04,Investment,Cash,Retirement account contribution,541.72,0.0
+2024-03-14,Travel,Debit Card,Hotel booking for vacation,899.27,64.98
+2024-03-07,Investment,Debit Card,Investment in startup,690.65,0.0
+2024-03-07,Food,Debit Card,Snacks for cravings,306.93,8.31
+2024-03-08,Investment,Cash,Retirement account contribution,902.66,0.0
+2024-03-14,Transportation,UPI,Taxi fare to a meeting,119.23,4.78
+2024-03-01,Personal,UPI,Personal care products,511.48,29.8
+2024-03-24,Subscriptions,Credit Card,Gym membership,179.02,16.81
+2024-03-13,Travel,Debit Card,Travel insurance,462.93,17.21
+2024-03-08,Subscriptions,Cash,Gym membership,431.13,15.22
+2024-03-30,Personal,UPI,Hobby supplies,486.78,8.99
+2024-03-20,Gifts,UPI,Holiday gift,701.58,14.74
+2024-03-02,Food,Net Banking,Dinner at a restaurant,79.13,1.61
+2024-03-27,Entertainment,Credit Card,Video game purchase,622.84,19.92
+2024-03-08,Investment,UPI,Stock purchase,963.53,0.0
+2024-03-13,Investment,Cash,Cryptocurrency purchase,204.34,0.0
+2024-03-04,Food,Debit Card,Takeout from a local diner,977.07,2.23
+2024-03-11,Transportation,Net Banking,Gas for the car,529.51,37.19
+2024-03-18,Bills,Credit Card,Internet service charge,536.43,13.03
+2024-03-27,Food,Cash,Snacks for cravings,412.58,29.35
+2024-03-29,Investment,Cash,Retirement account contribution,559.72,0.0
+2024-03-06,Bills,Debit Card,Water bill payment,268.78,10.38
+2024-03-08,Gifts,Debit Card,Holiday gift,306.55,9.99
+2024-03-20,Subscriptions,UPI,Online course fee,201.9,5.72
+2024-03-15,Personal,Credit Card,Clothing purchase,186.76,13.08
+2024-03-20,Personal,UPI,Personal care products,518.86,28.05
+2024-03-10,Bills,Credit Card,Water bill payment,788.42,31.8
+2024-03-19,Gifts,Credit Card,Birthday gift for a friend,775.78,22.81
+2024-03-26,Bills,Credit Card,Electricity bill payment,135.68,3.08
+2024-03-15,Bills,Net Banking,Electricity bill payment,965.53,31.25
+2024-03-08,Investment,Credit Card,Retirement account contribution,15.61,0.0
+2024-03-28,Subscriptions,Credit Card,Online course fee,452.26,5.13
+2024-03-02,Personal,Credit Card,Clothing purchase,24.44,2.08
+2024-03-09,Investment,Cash,Retirement account contribution,723.91,0.0
+2024-03-05,Bills,UPI,Electricity bill payment,994.28,96.7
+2024-03-25,Entertainment,Credit Card,Movie tickets for the weekend,342.36,2.47
+2024-03-04,Entertainment,Credit Card,Video game purchase,189.75,5.55
+2024-03-28,Food,Cash,Coffee and pastries at a café,274.82,23.04
+2024-03-12,Transportation,Cash,Gas for the car,654.7,62.57
+2024-03-20,Travel,Cash,Hotel booking for vacation,168.13,12.02
+2024-03-23,Bills,Cash,Internet service charge,100.94,7.98
+2024-03-03,Entertainment,Net Banking,Streaming service subscription,168.83,16.71
+2024-03-19,Entertainment,Debit Card,Movie tickets for the weekend,936.4,10.09
+2024-03-29,Subscriptions,Credit Card,Online course fee,320.18,12.53
+2024-03-17,Investment,Credit Card,Real estate investment,396.49,0.0
+2024-03-12,Groceries,UPI,Household supplies,622.32,46.42
+2024-03-27,Personal,Net Banking,Personal care products,77.29,0.36
+2024-03-24,Travel,Net Banking,Flight tickets to a destination,661.99,15.31
+2024-03-20,Gifts,Credit Card,Anniversary gift,258.81,3.43
+2024-03-02,Subscriptions,UPI,Software subscription,245.76,6.46
+2024-03-04,Gifts,Net Banking,Gift for a colleague,205.23,4.5
+2024-03-01,Investment,Net Banking,Retirement account contribution,802.03,0.0
+2024-03-30,Personal,Debit Card,Personal care products,956.86,22.93
+2024-03-27,Transportation,Net Banking,Taxi fare to a meeting,945.71,93.13
+2024-03-25,Subscriptions,Cash,Streaming service subscription,123.69,1.52
+2024-03-22,Personal,Net Banking,Hobby supplies,999.06,5.53
+2024-03-14,Food,Credit Card,Dinner at a restaurant,329.12,28.39
+2024-03-16,Transportation,Cash,Uber ride to the airport,932.52,56.61
+2024-03-27,Personal,UPI,Clothing purchase,265.29,24.87
+2024-03-09,Food,Credit Card,Snacks for cravings,164.39,5.32
+2024-03-09,Gifts,UPI,Holiday gift,6.37,0.38
+2024-03-25,Food,Cash,Lunch with friends,535.11,1.71
+2024-03-12,Personal,Net Banking,Clothing purchase,311.03,25.27
+2024-03-30,Gifts,UPI,Anniversary gift,808.12,55.84
+2024-03-05,Personal,Net Banking,Hobby supplies,802.22,39.41

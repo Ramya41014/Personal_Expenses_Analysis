@@ -1,0 +1,101 @@
+Random_Date,Category,Payment_Mode,Description,Amount_Paid,Cashback
+2024-05-05,Travel,Credit Card,Hotel booking for vacation,194.15,5.55
+2024-05-08,Entertainment,Debit Card,Dining out with friends,312.62,14.8
+2024-05-02,Food,Cash,Snacks for cravings,897.95,65.0
+2024-05-16,Investment,UPI,Retirement account contribution,141.48,0.0
+2024-05-17,Subscriptions,Net Banking,Monthly magazine subscription,398.27,17.48
+2024-05-28,Investment,Net Banking,Retirement account contribution,120.92,0.0
+2024-05-25,Subscriptions,Credit Card,Monthly magazine subscription,65.24,4.23
+2024-05-15,Bills,Net Banking,Insurance premium payment,336.03,20.43
+2024-05-01,Travel,Cash,Flight tickets to a destination,365.97,33.4
+2024-05-17,Groceries,UPI,Weekly grocery shopping,381.68,24.96
+2024-05-29,Subscriptions,Debit Card,Gym membership,345.95,26.53
+2024-05-28,Transportation,Debit Card,Public transport monthly pass,846.72,31.76
+2024-05-17,Groceries,Net Banking,Household supplies,432.76,36.51
+2024-05-09,Food,Net Banking,Takeout from a local diner,718.45,25.51
+2024-05-25,Groceries,UPI,Buying meat and dairy products,774.66,50.83
+2024-05-16,Travel,Debit Card,Car rental for the trip,902.24,39.29
+2024-05-30,Subscriptions,Cash,Monthly magazine subscription,647.55,39.2
+2024-05-03,Subscriptions,Debit Card,Gym membership,988.77,40.54
+2024-05-04,Travel,Net Banking,Travel insurance,316.45,3.09
+2024-05-02,Subscriptions,Cash,Gym membership,333.07,26.44
+2024-05-06,Transportation,Net Banking,Taxi fare to a meeting,979.16,24.79
+2024-05-25,Bills,Credit Card,Internet service charge,173.68,16.02
+2024-05-01,Travel,Net Banking,Car rental for the trip,327.18,23.07
+2024-05-29,Subscriptions,Cash,Online course fee,320.42,19.5
+2024-05-17,Transportation,Cash,Taxi fare to a meeting,765.15,24.38
+2024-05-19,Gifts,Debit Card,Birthday gift for a friend,475.67,39.97
+2024-05-27,Gifts,Debit Card,Holiday gift,657.67,40.49
+2024-05-12,Entertainment,UPI,Streaming service subscription,186.58,0.21
+2024-05-28,Travel,UPI,Flight tickets to a destination,818.06,29.09
+2024-05-21,Groceries,Cash,Snacks and drinks for the week,42.44,3.11
+2024-05-09,Groceries,UPI,Snacks and drinks for the week,36.79,0.22
+2024-05-10,Gifts,Credit Card,Holiday gift,726.27,28.45
+2024-05-10,Gifts,Net Banking,Anniversary gift,362.01,32.88
+2024-05-17,Entertainment,Cash,Concert tickets,508.16,48.15
+2024-05-18,Food,Cash,Lunch with friends,123.83,2.57
+2024-05-05,Gifts,Net Banking,Birthday gift for a friend,232.49,4.15
+2024-05-24,Investment,UPI,Retirement account contribution,278.89,0.0
+2024-05-25,Travel,Cash,Sightseeing tour tickets,437.0,42.53
+2024-05-07,Subscriptions,UPI,Software subscription,238.35,20.63
+2024-05-20,Personal,Credit Card,Clothing purchase,275.48,25.96
+2024-05-28,Food,Credit Card,Snacks for cravings,849.23,42.09
+2024-05-06,Bills,Cash,Insurance premium payment,76.21,0.76
+2024-05-19,Food,Cash,Dinner at a restaurant,620.12,38.25
+2024-05-19,Subscriptions,UPI,Software subscription,828.19,25.36
+2024-05-25,Investment,Debit Card,Mutual fund contribution,161.32,0.0
+2024-05-06,Investment,UPI,Stock purchase,837.26,0.0
+2024-05-07,Personal,Credit Card,Clothing purchase,619.91,6.96
+2024-05-04,Entertainment,Credit Card,Streaming service subscription,827.11,45.52
+2024-05-14,Investment,Net Banking,Stock purchase,183.5,0.0
+2024-05-25,Food,Debit Card,Lunch with friends,568.63,8.21
+2024-05-29,Travel,Debit Card,Travel insurance,830.5,16.83
+2024-05-20,Bills,UPI,Internet service charge,654.36,5.38
+2024-05-26,Gifts,Credit Card,Charity donation,950.72,51.93
+2024-05-08,Bills,Debit Card,Internet service charge,506.97,46.85
+2024-05-05,Personal,Cash,Clothing purchase,787.98,59.76
+2024-05-19,Food,UPI,Coffee and pastries at a café,755.38,35.5
+2024-05-19,Groceries,Credit Card,Buying fresh produce,627.16,44.62
+2024-05-09,Entertainment,Cash,Streaming service subscription,913.01,26.7
+2024-05-27,Gifts,UPI,Birthday gift for a friend,367.93,27.45
+2024-05-03,Personal,Net Banking,Personal care products,681.6,60.93
+2024-05-25,Bills,Debit Card,Electricity bill payment,729.35,34.57
+2024-05-21,Gifts,Cash,Charity donation,965.78,72.28
+2024-05-21,Groceries,UPI,Household supplies,896.21,11.86
+2024-05-16,Entertainment,Net Banking,Movie tickets for the weekend,200.46,14.19
+2024-05-08,Investment,Debit Card,Dividend reinvestment,874.48,0.0
+2024-05-27,Investment,UPI,Investment in startup,694.16,0.0
+2024-05-01,Groceries,Credit Card,Weekly grocery shopping,550.38,30.95
+2024-05-11,Travel,Debit Card,Travel insurance,819.99,58.13
+2024-05-19,Groceries,Credit Card,Buying meat and dairy products,831.21,1.94
+2024-05-03,Investment,Credit Card,Bond investment,419.06,0.0
+2024-05-05,Groceries,Credit Card,Buying fresh produce,90.63,4.92
+2024-05-03,Bills,Net Banking,Internet service charge,213.63,21.24
+2024-05-07,Travel,Credit Card,Sightseeing tour tickets,481.73,47.5
+2024-05-15,Entertainment,Credit Card,Movie tickets for the weekend,535.24,43.21
+2024-05-01,Personal,Net Banking,Books and stationery,714.75,50.4
+2024-05-06,Subscriptions,Debit Card,Online course fee,106.25,0.36
+2024-05-08,Transportation,Net Banking,Uber ride to the airport,268.66,22.03
+2024-05-09,Investment,Debit Card,Cryptocurrency purchase,524.84,0.0
+2024-05-02,Gifts,Debit Card,Charity donation,814.19,2.5
+2024-05-11,Bills,Net Banking,Mobile phone bill,768.7,6.2
+2024-05-24,Transportation,Cash,Taxi fare to a meeting,375.65,1.71
+2024-05-11,Personal,Cash,Hobby supplies,422.17,40.38
+2024-05-08,Gifts,Credit Card,Charity donation,630.27,19.54
+2024-05-12,Gifts,Debit Card,Gift for a colleague,616.8,24.57
+2024-05-19,Travel,Credit Card,Hotel booking for vacation,765.34,0.89
+2024-05-23,Investment,Debit Card,Real estate investment,330.63,0.0
+2024-05-16,Subscriptions,UPI,Monthly magazine subscription,147.16,0.55
+2024-05-23,Gifts,UPI,Gift for a colleague,47.17,2.07
+2024-05-17,Gifts,Net Banking,Anniversary gift,260.82,13.17
+2024-05-05,Gifts,Cash,Anniversary gift,537.69,7.03
+2024-05-19,Personal,Debit Card,Books and stationery,714.47,47.92
+2024-05-25,Personal,UPI,Hobby supplies,784.36,45.93
+2024-05-05,Groceries,Cash,Household supplies,556.82,13.5
+2024-05-06,Gifts,Net Banking,Birthday gift for a friend,171.48,4.06
+2024-05-13,Subscriptions,Cash,Monthly magazine subscription,303.33,19.67
+2024-05-13,Personal,Credit Card,Books and stationery,617.82,28.35
+2024-05-03,Bills,UPI,Mobile phone bill,134.21,11.23
+2024-05-20,Entertainment,Debit Card,Concert tickets,642.77,56.33
+2024-05-25,Transportation,Cash,Parking fees,487.19,25.78
+2024-05-12,Personal,Net Banking,Books and stationery,29.17,2.74
